@@ -1,0 +1,16 @@
+E:\代码\ORC\ORC\bin\Release\ORC.exe.config
+E:\代码\ORC\ORC\bin\Release\ORC.exe
+E:\代码\ORC\ORC\bin\Release\ORC.pdb
+E:\代码\ORC\ORC\obj\Release\ORC.Properties.Resources.resources
+E:\代码\ORC\ORC\obj\Release\ORC.csproj.GenerateResource.cache
+E:\代码\ORC\ORC\obj\Release\ORC.csproj.CoreCompileInputs.cache
+E:\代码\ORC\ORC\obj\Release\ORC.exe
+E:\代码\ORC\ORC\obj\Release\ORC.pdb
+E:\代码\ORC\ORC\bin\Release\AipSdk.dll
+E:\代码\ORC\ORC\bin\Release\Newtonsoft.Json.dll
+E:\代码\ORC\ORC\bin\Release\Newtonsoft.Json.xml
+E:\代码\ORC\ORC\obj\Release\ORC.screenshots_Form1.resources
+E:\代码\ORC\ORC\obj\Release\ORC.csproj.CopyComplete
+E:\代码\ORC\ORC\obj\Release\ORC.ORC_Output_Form1.resources
+E:\代码\ORC\ORC\obj\Release\ORC.ORC_Set_up.resources
+E:\代码\ORC\ORC\obj\Release\ORC.csprojAssemblyReference.cache
